@@ -8,7 +8,7 @@
       </vk-navbar>
     </div>
     <div class="content uk-position-center">
-      <!-- <p class="first-p">Welcome to Ibadan</p> -->
+     
       <p class="second-p">Urban Planning & Health Analysis</p>
       <p v-vk-margin>
         <router-link to="/login">
